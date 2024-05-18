@@ -4,7 +4,6 @@ import Search from "../components/Search";
 import Preloader from "../components/Preloader";
 
 const API_NAME = process.env.REACT_APP_API_KEY;
-console.log(API_NAME);
 
 class Main extends React.Component {
 
