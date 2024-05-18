@@ -8,7 +8,6 @@ function Movies(props) {
         return <div>Not found</div>;
     }
 
-
     return (
         <div className="movies">
             {movies.map(item => (
